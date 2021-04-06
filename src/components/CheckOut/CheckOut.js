@@ -34,9 +34,9 @@ const CheckOut = () => {
             loggedInUser.productImg = details.productImg;
             loggedInUser.productName = details.productName;
             loggedInUser.productWeight = details.productWeight;
-
         }
     })
+    
     return (
         <div>
             <Header />

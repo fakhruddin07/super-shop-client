@@ -5,6 +5,5 @@ It's a kind of super shop. Where you get any products which you use i your daily
 
 Features of this website : 
 1. Admin can add product and delete product.
-2. If any users can see what user ordered before in orders.
+2. If any users can see what user ordered before.
 3. Users can see checkout of their order.
-4. 
